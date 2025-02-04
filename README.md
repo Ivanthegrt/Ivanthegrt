@@ -12,10 +12,8 @@
   all the difference.
 - ☕ For my project I've taken a full Kotlin, Jetpack Compose approach, implementing elegant design and clean
   compose concepts as well as utilizing the viewmodel for storing UI states and handling all business operations.
-  I believe Jetpack compose is a much cleaner and concise approach to the UI, as opposed to XML layouts, and I
-  think once comfortable enough it's much easier to work with.
 - 📨 Feel free to contact me to take part in my closed internal testing of my app in the play store! you can
-  reach me at: 
+  reach me at: ihnetr.1@gmail.com
  
 <!--
 **Ivanthegrt/Ivanthegrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
